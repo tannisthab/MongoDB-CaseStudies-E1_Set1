@@ -1,6 +1,6 @@
-# MongoDB Assignment - Set 1
+# MongoDB Assignment - E1_Set 1
 
-This repository contains solutions to **MongoDB Problem Set 1**, focusing on real-world case studies and database operations.
+This repository contains solutions to **MongoDB Problem E1_Set 1**, focusing on real-world case studies and database operations.
 
 ---
 
